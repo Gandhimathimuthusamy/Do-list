@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "checked": false,
+      "item": "df"
+    },
+    {
+      "id": 2,
+      "checked": false,
+      "item": "ds"
+    },
+    {
+      "id": 3,
+      "checked": false,
+      "item": "dsf"
+    },
+    {
+      "id": 4,
+      "checked": false,
+      "item": "dfad"
+    },
+    {
+      "id": 5,
+      "checked": false,
+      "item": "fasv"
+    }
+  ]
+}
