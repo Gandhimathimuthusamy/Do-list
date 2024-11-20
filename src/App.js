@@ -125,6 +125,7 @@ return (
               /> 
               <SearchItem
                  search={search}
+                 setSearch={setSearch}
               />
             <main>
               {loading && <p> Is Loading ...</p>   }
